@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ScreenShot">
+      <class name="HardAndSoftAssertion">
         <methods>
-          <include name="SSAfterClickLoginButton"/>
+          <include name="beforeCheck"/>
+          <include name="hardAssertion"/>
         </methods>
-      </class> <!-- ScreenShot -->
+      </class> <!-- HardAndSoftAssertion -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
