@@ -1,33 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-05T01:00:45 IST" name="Default suite" finished-at="2022-04-05T01:00:48 IST" duration-ms="3456">
+  <suite started-at="2022-04-06T17:55:52 IST" name="Default suite" finished-at="2022-04-06T17:56:00 IST" duration-ms="8522">
     <groups>
     </groups>
-    <test started-at="2022-04-05T01:00:45 IST" name="Default test" finished-at="2022-04-05T01:00:48 IST" duration-ms="3456">
-      <class name="Validation">
-        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:Validation@4b45a2f5]" started-at="2022-04-05T01:00:45 IST" name="BeforeTest" finished-at="2022-04-05T01:00:48 IST" duration-ms="3004" status="PASS">
+    <test started-at="2022-04-06T17:55:52 IST" name="Default test" finished-at="2022-04-06T17:56:00 IST" duration-ms="8522">
+      <class name="SearchTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:SearchTest@20140db9]" started-at="2022-04-06T17:55:52 IST" name="beforeTest" finished-at="2022-04-06T17:55:55 IST" duration-ms="2649" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- BeforeTest -->
-        <test-method signature="TopNavBarCheck()[pri:0, instance:Validation@4b45a2f5]" started-at="2022-04-05T01:00:48 IST" name="TopNavBarCheck" finished-at="2022-04-05T01:00:48 IST" duration-ms="171" status="PASS">
+        </test-method> <!-- beforeTest -->
+        <test-method signature="test()[pri:0, instance:SearchTest@20140db9]" started-at="2022-04-06T17:55:55 IST" name="test" finished-at="2022-04-06T17:55:55 IST" duration-ms="321" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TopNavBarCheck -->
-        <test-method signature="HomePageCheck()[pri:1, instance:Validation@4b45a2f5]" started-at="2022-04-05T01:00:48 IST" name="HomePageCheck" finished-at="2022-04-05T01:00:48 IST" duration-ms="57" status="PASS">
+        </test-method> <!-- test -->
+        <test-method signature="testArticle()[pri:0, instance:SearchTest@20140db9]" started-at="2022-04-06T17:55:55 IST" name="testArticle" finished-at="2022-04-06T17:55:56 IST" duration-ms="1405" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- HomePageCheck -->
-        <test-method signature="FooterCheck()[pri:2, instance:Validation@4b45a2f5]" started-at="2022-04-05T01:00:48 IST" name="FooterCheck" finished-at="2022-04-05T01:00:48 IST" duration-ms="115" status="PASS">
+        </test-method> <!-- testArticle -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:SearchTest@20140db9]" started-at="2022-04-06T17:55:56 IST" name="AfterTest" finished-at="2022-04-06T17:56:00 IST" duration-ms="4114" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- FooterCheck -->
-        <test-method is-config="true" signature="afterCheck()[pri:0, instance:Validation@4b45a2f5]" started-at="2022-04-05T01:00:48 IST" name="afterCheck" finished-at="2022-04-05T01:00:48 IST" duration-ms="67" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterCheck -->
-      </class> <!-- Validation -->
+        </test-method> <!-- AfterTest -->
+      </class> <!-- SearchTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

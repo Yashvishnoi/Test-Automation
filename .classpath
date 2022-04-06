@@ -139,5 +139,12 @@
 	<classpathentry kind="lib" path="C:/Users/Yash Vishnoi/Desktop/Test Automation/lab/poi-bin-5.2.0/auxiliary/xml-apis-ext-1.3.04.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Yash Vishnoi/Desktop/Test Automation/lab/poi-bin-5.2.0/auxiliary/xmlgraphics-commons-2.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Yash Vishnoi/Desktop/Test Automation/lab/poi-bin-5.2.0/auxiliary/xmlsec-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yash Vishnoi/Desktop/Test Automation/lab/Extent/jar_files/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yash Vishnoi/Desktop/Test Automation/lab/Extent/jar_files/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yash Vishnoi/Desktop/Test Automation/lab/Extent/jar_files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yash Vishnoi/Desktop/Test Automation/lab/Extent/jar_files/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yash Vishnoi/Desktop/Test Automation/lab/Extent/jar_files/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yash Vishnoi/Desktop/Test Automation/lab/Extent/jar_files/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yash Vishnoi/Desktop/Test Automation/lab/Extent/jar_files/sqlite-jdbc-3.8.11.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
